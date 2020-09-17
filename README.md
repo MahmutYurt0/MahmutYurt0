@@ -1,4 +1,4 @@
-## Hello everyone, I'm Emir Ceyani, an aspiring machine learning researcher and a PhD student from Turkey 🇹🇷.
+## Hello everyone, I'm Mahmut Yurt, an aspiring machine learning researcher and a Master's Student from Turkey 🇹🇷.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
