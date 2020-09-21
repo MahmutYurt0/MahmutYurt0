@@ -1,12 +1,8 @@
-## Hello everyone, I'm Mahmut Yurt, an aspiring machine learning researcher and a Master's Student from Turkey 🇹🇷.
+## Hello everyone, I'm Mahmut Yurt, an aspiring deep learning learning researcher and a Master's student from Turkey 🇹🇷.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Google Scholar](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/emirceyani)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](hhttps://www.instagram.com/emirceyani/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/EmirCeyani)](https://twitter.com/ceyani_emir)
 
 <!-- Talking about you -->
 Short intro:
@@ -16,13 +12,13 @@ I am a PhD student interested in deep learning \& machine learning theory , fede
 <!-- Any image aligned to the right. Beware the width -->
 <img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
 
-- :man:🏽:computer: I’m currently working on my PhD to develop an information theoretic approaches for transfer learning ;
-- :seedling: I’m currently learning about PyTorch and how to play an ukulele; 
+- :man:🏽:computer: I’m currently studying methods to develop image synthesis, reconstruction and super resolution models for multi-contrast MRI as well as for standard computer vision problems;
+- :seedling: I’m  also learning in-depth knowledge about PyTorch; 
 - :dancers: I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
 - 🤔 I’m looking for help with n;
 - :speech_balloon: Ask me about , I am happy to help;
 :mailbox: How to reach me: ceyani.io;
-- :mailbox: How to reach me: ceyani@usc.edu;
+- :mailbox: How to reach me: mahmut@ee.bilkent.edu.tr;
 
 Languages and Tools: 
 
