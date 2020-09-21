@@ -15,7 +15,6 @@ I am a PhD student interested in deep learning \& machine learning theory , fede
 - :man:🏽:computer: I’m currently studying methods to develop image synthesis, reconstruction and super resolution models for multi-contrast MRI as well as for standard computer vision problems;
 - :seedling: I’m  also learning in-depth knowledge about PyTorch; 
 - :dancers: I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
-- 🤔 I’m looking for help with n;
 - :speech_balloon: Ask me about , I am happy to help;
 :mailbox: How to reach me: ceyani.io;
 - :mailbox: How to reach me: mahmut@ee.bilkent.edu.tr;
