@@ -7,10 +7,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 Short intro:
 
-I am a PhD student interested in deep learning \& machine learning theory , federated learning, Bayesian neural networks and AutoML under the leadership of Prof. Salman Avestimehr at University of Southern California. During my Msc., I was a research engineer at Turkcell Technologies, Istanbul,🇹🇷.   My main expertise has revolved around convolutional neural networks and their hardware acceleration applied to computer vision tasks. 
+I am a master’s student in the Department of Electrical and Electronics Engineering at Bilkent University. I am also working as a graduate researcher in Imaging and Computational Neuroscience Lab (ICON Lab) under the supervision of Prof. Tolga Çukur.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />
+<!-- <img width="30%" align="right" alt="Github" src="https://ceyani.io/author/emir-ceyani/avatar_hue92774dbe360d8f4714995c1e1cb09f0_64701_270x270_fill_q90_lanczos_center.jpg" />-->
 
 - :man:🏽:computer: I’m currently studying methods to develop image synthesis, reconstruction and super resolution models for multi-contrast MRI as well as for standard computer vision problems;
 - :seedling: I’m  also learning in-depth knowledge about PyTorch; 
