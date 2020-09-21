@@ -16,7 +16,6 @@ I am a master’s student in the Department of Electrical and Electronics Engine
 - :seedling: I’m  also learning in-depth knowledge about PyTorch; 
 - :dancers: I’m looking to collaborate on research ideas 🤝 and I am always looking for internships;
 - :speech_balloon: Ask me about , I am happy to help;
-:mailbox: How to reach me: ceyani.io;
 - :mailbox: How to reach me: mahmut@ee.bilkent.edu.tr;
 
 Languages and Tools: 
